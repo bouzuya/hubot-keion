@@ -1,6 +1,6 @@
 {
   "name": "hubot-keion",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A Hubot script that generate a random name like ke-i-o-n",
   "main": "index.js",
   "scripts": {
